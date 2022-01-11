@@ -21,7 +21,7 @@ Creation of a starbucks interface using html and css, project under construction
 
 <br>
 
-<h4>to see another project click here <a href="https://github.com/izabela-guimaraes/PlayStation-Store" target="blank">click here</a></h4>
+<h4>to see another project <a href="https://github.com/izabela-guimaraes/PlayStation-Store" target="blank">click here</a></h4>
 
 🚀 Technologies
 
