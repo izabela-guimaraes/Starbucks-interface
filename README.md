@@ -1,4 +1,4 @@
-# starbucks-interface
+# Starbucks-interface
 Creation of a starbucks interface using html and css, project under construction !!!!
 
 
@@ -10,17 +10,17 @@ Creation of a starbucks interface using html and css, project under construction
 
 ## Tasks performed:
 
-- [x] creation HTML
+- [x] Creation HTML
 
 - [x] Stylization CSS
 
 - [ ] Responsiveness
 
-<h4>click here to see the application working <a href="https://izabela-guimaraes.github.io/Starbucks-interface/" target="blank">click here</a></h4>
-
 <br>
 
-<h4>to see another project <a href="https://github.com/izabela-guimaraes/PlayStation-Store" target="blank">click here</a></h4>
+<h4>Click here to see the application working <a href="https://izabela-guimaraes.github.io/Starbucks-interface/" target="blank">click here</a></h4>
+
+<h4>To see another project <a href="https://github.com/izabela-guimaraes/PlayStation-Store" target="blank">click here</a></h4>
 
 🚀 Technologies
 
