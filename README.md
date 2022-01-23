@@ -18,7 +18,7 @@ Creation of a starbucks interface using html and css, project under construction
 
 <br>
 
-<h4>Click here to see the application working <a href="https://izabela-guimaraes.github.io/Starbucks-interface/" target="blank">click here</a></h4>
+<h4><a href="https://izabela-guimaraes.github.io/Starbucks-interface/" target="blank">Click here to see the application working </a></h4>
 
 <h4>To see another project <a href="https://github.com/izabela-guimaraes/PlayStation-Store" target="blank">click here</a></h4>
 
